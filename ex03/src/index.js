@@ -3,7 +3,7 @@ var myRes = 16;
 var i = myRes - 1;
 
 myRes= i--;
-return myRes
+return myRes;
 
  }
  console.log(main());
