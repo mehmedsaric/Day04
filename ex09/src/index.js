@@ -1,4 +1,4 @@
-function main () { 
+function main() { 
 var firstNum = 6;
 var secondNum = 25;
 var thirdNum = 5.2;
